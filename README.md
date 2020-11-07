@@ -1,8 +1,5 @@
 # Kashiwaba Yuki
 
-## Profile
-
-
 ### Portfolio
 - [mocrat](https://github.com/alumi-mic/mocrat)
   - ゲーミフィケーションを活用して朝活や学習の習慣化を実現するDiscord Bot
@@ -14,12 +11,6 @@
 - [かえるのひみつきち](https://kashiwaba-yuki.com/)
   - セキュリティや資格勉強などの記録のためのブログ
   - Hexo 製の SPA サイト
-
-## Skilset
-- Security
-
-- Development
-
 
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
