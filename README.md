@@ -17,8 +17,9 @@ My favorite project are these.
 - Hack the Box
 
 
-And I administer "ちばもく会" that is community to share learning and to have study events.  
-You can join "ちばもく会" only click on below link.  
+And I administer "ちばもく会" that is community to share learning and to have study events.
+
+If you have interest, you can join "ちばもく会" only click on below link.  
 Why don't you join us?
 
 Community: [ちばもく会 Discord](https://discord.gg/v6ht2M3BRS)
