@@ -1,7 +1,11 @@
-# Kashiwaba Yuki
+# Yuki Kashiwaba
 
 ## Profile
-Security Engineer in Chiba.  
+Thanks for comming.  
+I'm Yuki Kashiwaba.  
+Twitter: [@yuki_kashiwaba](https://twitter.com/yuki_kashiwaba)  
+
+I'm Security Engineer in Chiba.  
 I graduated Chiba univ when 2018.
 
 I love Development and Coffee and Green Tee.  
@@ -12,10 +16,9 @@ My favorite project are these.
 - Program Contests
 - Hack the Box
 
-Twitter: [@yuki_kashiwaba](https://twitter.com/yuki_kashiwaba)  
 
 And I administer "ちばもく会" that is community to share learning and to have study events.  
-You can join "ちばもく会" only click on below link.
+You can join "ちばもく会" only click on below link.  
 Why don't you join us?
 
 Community: [ちばもく会 Discord](https://discord.gg/v6ht2M3BRS)
