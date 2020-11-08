@@ -12,6 +12,14 @@ My favorite project are these.
 - Program Contests
 - Hack the Box
 
+Twitter: [@yuki_kashiwaba](https://twitter.com/yuki_kashiwaba)  
+
+And I administer "ちばもく会" that is community to share learning and to have study events.  
+You can join "ちばもく会" only click on below link.
+Why don't you join us?
+
+Community: [ちばもく会 Discord](https://discord.gg/v6ht2M3BRS)
+
 Thanks.
 
 ## Portfolio
@@ -26,6 +34,8 @@ Thanks.
   - セキュリティや資格勉強などの記録のためのブログ
   - Hexo 製の SPA サイト
 
+
+## Github Analysis
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
