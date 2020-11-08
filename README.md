@@ -2,9 +2,12 @@
 
 ## Profile
 Security Engineer in Chiba.
+
 I graduated Chiba univ when 2018.
 
 I love Development and Coffee and Green Tee.
+
+
 My favorite project are these.
 
 - Automation tools and useful bot
