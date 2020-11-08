@@ -1,6 +1,5 @@
 # Yuki Kashiwaba
 
-## Profile
 Thanks for comming.  
 
 I'm Yuki Kashiwaba.  
