@@ -12,7 +12,7 @@ I love Development and Coffee and Green Tee.
 My favorite project are these.
 
 - Automation tools and useful bot
-- Create My OS
+- Create OS
 - Program Contests
 - Hack the Box
 
