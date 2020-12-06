@@ -16,7 +16,6 @@ My favorite project are these.
 - Program Contests
 - Hack the Box
 
-
 And I administer "ちばもく会" that is community to share learning and to have study events.
 
 If you have interest, you can join "ちばもく会" only click on below link.  
