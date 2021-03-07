@@ -30,6 +30,9 @@ Thanks.
 - [mocrat](https://github.com/alumi-mic/mocrat)
   - ゲーミフィケーションを活用して朝活や学習の習慣化を実現するDiscord Bot
 
+- [kash1064/haribote_linux](https://github.com/kash1064/haribote_linux)
+  - [30日でできる! OS自作入門 | 川合 秀実](https://amzn.to/3l0aNJO) のはりぼてOSを、汎用ツールセット＆WSL2 の Dokcer でビルドできるようにカスタマイズしたリポジトリ
+
 ### Blog
 - [かえるのほんだな](https://yukituna.com/)
   - 月間 20,000 PV の開発備忘録ブログ
