@@ -8,24 +8,19 @@ Twitter: [@yuki_kashiwaba](https://twitter.com/yuki_kashiwaba)
 I'm Security Engineer in Chiba.  
 I graduated Chiba univ when 2018.
 
-I love Development and Coffee and Green Tee.  
+I love Development and Hacking.  
 My favorite project are these.
 
+- Web application
 - Automation tools and useful bot
 - Create OS
 - Programing Contests
 - Hack the Box
 
-And I administer "ちばもく会" that is community to share learning and to have study events.
-
-If you have interest, you can join "ちばもく会" only click on below link.  
-Why don't you join us?
-
-Community: [ちばもく会 Discord](https://discord.gg/v6ht2M3BRS)
-
 Thanks.
 
 ## Portfolio
+
 ### Developments
 - [mocrat](https://github.com/alumi-mic/mocrat)
   - ゲーミフィケーションを活用して朝活や学習の習慣化を実現するDiscord Bot
@@ -50,6 +45,15 @@ Thanks.
 - Hack The Box ProHacker  
 
 ![327080 (220×50)](https://www.hackthebox.eu/badge/image/327080 "327080 (220×50)")
+
+## Others
+千葉市周辺で開催している勉強会がなかなか見つからないので、なら自分で作ってしまおうと思い、  
+「ちばもく会」というグループを立ち上げました。  
+
+千葉市近辺の方が気軽に参加し、交流できる勉強会の開催を目指しています。  
+
+- [ちばもく会 connpass](https://chiba-moku2.connpass.com/)
+- [ちばもく会 Discordチャンネル](https://discord.gg/v6ht2M3BRS)
 
 ## Github Analysis
 [![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
