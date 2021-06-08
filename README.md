@@ -41,7 +41,7 @@ Thanks.
 ### Hack The Box
 - Hack The Box ProHacker  
 
-![327080 (220×50)](https://www.hackthebox.eu/badge/image/327080 "327080 (220×50)")
+![Hack The Box](https://www.hackthebox.eu/badge/image/327080)
 
 ## Others
 千葉市周辺で開催している勉強会がなかなか見つからないので、なら自分で作ってしまおうと思い、  
