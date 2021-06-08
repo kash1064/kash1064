@@ -22,7 +22,7 @@ Thanks.
 ## Portfolio
 
 ### Developments
-- [mocrat](https://github.com/alumi-mic/mocrat)
+- [mocrat](https://github.com/kash1064/mocrat)
   - ゲーミフィケーションを活用して朝活や学習の習慣化を実現するDiscord Bot
 
 - [kash1064/haribote_linux](https://github.com/kash1064/haribote_linux)
@@ -33,9 +33,8 @@ Thanks.
   - 月間 20,000 PV の開発備忘録ブログ
   - Wordpress 製
 
-- [かえるのひみつきち](https://kashiwaba-yuki.com/)
-  - セキュリティや資格勉強などの記録のためのブログ
-  - Hexo 製の SPA サイト
+- [Qiita](https://qiita.com/kash1064)
+  - HackTheBoxやCTFなどセキュリティ関連の記事
 
 ### Programing Contest
 - AtCoder 茶色
@@ -51,13 +50,11 @@ Thanks.
 「ちばもく会」というグループを立ち上げました。  
 
 千葉市近辺の方が気軽に参加し、交流できる勉強会の開催を目指しています。  
-
-- [ちばもく会 connpass](https://chiba-moku2.connpass.com/)
-- [ちばもく会 Discordチャンネル](https://discord.gg/v6ht2M3BRS)
+※活動休止中
 
 ## Github Analysis
-[![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/alumi-mic/alumi-mic/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=alumi-mic&color=green)
+![](https://komarev.com/ghpvc/?username=kash1064&color=green)
