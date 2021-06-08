@@ -5,8 +5,7 @@ Thanks for comming.
 I'm Yuki Kashiwaba.  
 Twitter: [@yuki_kashiwaba](https://twitter.com/yuki_kashiwaba)  
 
-I'm Security Engineer in Chiba.  
-I graduated Chiba univ when 2018.
+I'm Security Engineer in Chiba.
 
 I love Development and Hacking.  
 My favorite project are these.
