@@ -10,11 +10,10 @@ I'm Security Engineer in Chiba.
 I love Development and Hacking.  
 My favorite project are these.
 
-- Web application
-- Automation tools and useful bot
-- Create OS
 - Programing Contests
+- CTF(Reversing)
 - Hack the Box
+- Developments(OS / Web application / Automation tools)
 
 Thanks.
 
