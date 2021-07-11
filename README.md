@@ -19,17 +19,27 @@ Thanks.
 
 ## Portfolio
 
-### Developments
+### Book
+
+- 技術書典11 で YARA 本を執筆してます。
+
+<img class="u-block" data-src="https://pbs.twimg.com/card_img/1412399122577989633/YtW0hd5w?format=jpg&amp;name=600x314" alt="" src="https://pbs.twimg.com/card_img/1412399122577989633/YtW0hd5w?format=jpg&amp;name=600x314">
+
+### Development
 - [mocrat](https://github.com/kash1064/mocrat)
   - ゲーミフィケーションを活用して朝活や学習の習慣化を実現するDiscord Bot
 
 - [kash1064/haribote_linux](https://github.com/kash1064/haribote_linux)
   - [30日でできる! OS自作入門 | 川合 秀実](https://amzn.to/3l0aNJO) のはりぼてOSを、汎用ツールセット＆WSL2 の Dokcer でビルドできるようにカスタマイズしたリポジトリ
 
+### OSS Contribution
+
+- [VirusTotal/yara: The pattern matching swiss knife](https://github.com/VirusTotal/yara)
+
 ### Blog
 - [かえるのほんだな](https://yukituna.com/)
   - 月間 20,000 PV の開発備忘録ブログ
-  - Wordpress 製
+  - Wordpress
 
 - [Qiita](https://qiita.com/kash1064)
   - HackTheBoxやCTFなどセキュリティ関連の記事
@@ -49,10 +59,3 @@ Thanks.
 
 千葉市近辺の方が気軽に参加し、交流できる勉強会の開催を目指しています。  
 ※活動休止中
-
-## Github Analysis
-[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kash1064/kash1064/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://komarev.com/ghpvc/?username=kash1064&color=green)
