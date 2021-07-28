@@ -23,7 +23,7 @@ Thanks.
 
 - 技術書典11 で YARA 本を頒布中。
 
-<img class="u-block" data-src="https://techbookfest.org/api/image/6417599174803456.png?size=300?format=jpg&amp;name=600x314" alt="" src="https://techbookfest.org/api/image/6417599174803456.png?size=300?format=jpg&amp;name=600x314">
+![](https://techbookfest.org/api/image/6417599174803456.png?size=300)
 
 ### Development
 - [mocrat](https://github.com/kash1064/mocrat)
