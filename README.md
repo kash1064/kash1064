@@ -45,7 +45,7 @@ Thanks.
   - HackTheBoxやCTFなどセキュリティ関連の記事
 
 ### Programing Contest
-- AtCoder 茶色
+- AtCoder 緑
   - [kashiwaba_yuki - AtCoder](https://atcoder.jp/users/kashiwaba_yuki)
 
 ### Hack The Box
