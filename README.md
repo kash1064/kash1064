@@ -52,10 +52,3 @@ Thanks.
 - Hack The Box ProHacker  
 
 ![Hack The Box](https://www.hackthebox.eu/badge/image/327080)
-
-## Others
-千葉市周辺で開催している勉強会がなかなか見つからないので、なら自分で作ってしまおうと思い、  
-「ちばもく会」というグループを立ち上げました。  
-
-千葉市近辺の方が気軽に参加し、交流できる勉強会の開催を目指しています。  
-※活動休止中
