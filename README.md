@@ -2,6 +2,7 @@
 
 Thanks for comming.    
 Twitter: [@kash1064](https://twitter.com/kash1064)  
+CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ## Favorite
 
