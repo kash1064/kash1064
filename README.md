@@ -1,21 +1,13 @@
-# Yuki Kashiwaba
+# Yuki Kashiwaba(kash1064)
 
-Thanks for comming.  
-
-I'm Yuki Kashiwaba.  
+Thanks for comming.    
 Twitter: [@kash1064](https://twitter.com/kash1064)  
 
-I'm Security Engineer in Chiba.
+## Favorite
 
-I love Development and Hacking.  
-My favorite project are these.
-
-- Programing Contests
 - CTF(Reversing)
-- Hack the Box
-- Developments(OS / Web application / Automation tools)
-
-Thanks.
+- OSCP / CISSP
+- WinDbg / YARA
 
 ## Portfolio
 
@@ -25,21 +17,8 @@ Thanks.
 
 ![](https://m.media-amazon.com/images/I/51u-qJjzu9L._SY346_.jpg)
 
-### OSS Contribution
-
-- [VirusTotal/yara: The pattern matching swiss knife](https://github.com/VirusTotal/yara)
-
 ### Blog
 
 - [かえるのひみつきち(新ブログ)](https://kashiwaba-yuki.com/)
 
 - [かえるのほんだな(旧ブログ)](https://yukituna.com/)
-
-### Programing Contest
-- AtCoder 緑
-  - [kashiwaba_yuki - AtCoder](https://atcoder.jp/users/kashiwaba_yuki)
-
-### Hack The Box
-- Hack The Box ProHacker  
-
-![Hack The Box](https://www.hackthebox.eu/badge/image/327080)
