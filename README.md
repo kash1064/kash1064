@@ -1,6 +1,6 @@
 # Yuki Kashiwaba(@kash1064)
 
-Thanks for comming.    
+Thanks for coming.    
 Twitter: [@kash1064](https://twitter.com/kash1064)  
 CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
