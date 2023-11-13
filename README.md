@@ -1,4 +1,4 @@
-# @kash1064
+# kash1064
 
 Thanks for coming.    
 Twitter: [@kash1064](https://twitter.com/kash1064)  
