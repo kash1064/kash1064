@@ -6,7 +6,7 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ## Favorite
 
-- CTF(Reversing)
+- CTF(Reversing / Forensic)
 - OSCP / CISSP
 - WinDbg / YARA
 
