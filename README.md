@@ -10,9 +10,7 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 - OSCP / CISSP
 - WinDbg / ClamAV / YARA
 
-## Portfolio
-
-### Book
+## Book
 
 - [Magical WinDbg 2 - CTFで学ぶユーザモード&カーネルデバッギング -](https://techbookfest.org/product/6hBEkTPSxJC5vSRTqa81F9)
 
