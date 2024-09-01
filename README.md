@@ -30,4 +30,4 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 - [かえるのひみつきち(新ブログ)](https://kashiwaba-yuki.com/)
 
-- [かえるのほんだな(旧ブログ)](https://yukituna.com/)
+- ~~[かえるのほんだな(旧ブログ)](https://yukituna.com/)~~
