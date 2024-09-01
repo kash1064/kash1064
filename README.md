@@ -8,7 +8,7 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 - CTF(Reversing / Forensic)
 - OSCP / CISSP
-- WinDbg / YARA
+- WinDbg / ClamAV / YARA
 
 ## Portfolio
 
