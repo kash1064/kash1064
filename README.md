@@ -14,6 +14,10 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ### Book
 
+- [Magical WinDbg 2 - CTFで学ぶユーザモード&カーネルデバッギング -](https://techbookfest.org/product/6hBEkTPSxJC5vSRTqa81F9)
+
+![](https://techbookfest.org/api/image/u9UkVreCKBd2k5AW5J3ja4.png?size=350)
+
 - [Magical WinDbg -雰囲気で楽しむ Windows ダンプ解析とトラブルシューティング-](https://techbookfest.org/product/bnaHM8sVz6AfEiF8jgpELj?productVariantID=bXvgf8g2KDpRRVJ9pBZJXH&utm_campaign=share&utm_medium=social&utm_source=twitter)
 
 ![](https://techbookfest.org/api/image/iq9hJabu7QRSxjTBmqgn8K.png?size=350)
