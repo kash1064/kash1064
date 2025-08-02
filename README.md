@@ -12,6 +12,10 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ## Book
 
+- [A part of Anti-Virus - サンプルコードで学ぶ Windows AntiVirus Minifilter Driver-]
+
+![](https://techbookfest.org/api/image/sJkxmU1rbhDeuKQ9qXjEZG.png?size=350)
+
 - [Magical WinDbg 2 - CTFで学ぶユーザモード&カーネルデバッギング -](https://techbookfest.org/product/6hBEkTPSxJC5vSRTqa81F9)
 
 ![](https://techbookfest.org/api/image/u9UkVreCKBd2k5AW5J3ja4.png?size=350)
