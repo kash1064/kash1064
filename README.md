@@ -12,6 +12,10 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ## Book
 
+- [A PART OF  ANTI-VIRUS 2 - 公開サンプルコードで学ぶ Windows Antimalware Scan Interface(AMSI) -](https://techbookfest.org/product/8RXYbx8JnsHZeFNHGRmMJU)
+
+![](https://techbookfest.org/api/image/7QZun5BHYf7CAUtQuHL4Cs.png?size=350)
+
 - [A part of Anti-Virus - サンプルコードで学ぶ Windows AntiVirus Minifilter Driver-](https://techbookfest.org/product/iFrVq6PX0PPJhivrGzhi32)
 
 ![](https://techbookfest.org/api/image/sJkxmU1rbhDeuKQ9qXjEZG.png?size=350)
