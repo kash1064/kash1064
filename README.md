@@ -12,6 +12,10 @@ CTF Team: [0nePadding](https://ctftime.org/team/217710)
 
 ## Book
 
+- [A PART OF  ANTI-VIRUS 3 - 公開サンプルコードで学ぶ Windows Filtering Platform (WFP) -](https://techbookfest.org/product/pHk9A7jSQhwLrqnxjFbJxT)
+
+![](https://techbookfest.org/api/image/62D3giafzgnTKdiapQHmYR.png?size=350)
+
 - [A PART OF  ANTI-VIRUS 2 - 公開サンプルコードで学ぶ Windows Antimalware Scan Interface(AMSI) -](https://techbookfest.org/product/8RXYbx8JnsHZeFNHGRmMJU)
 
 ![](https://techbookfest.org/api/image/7QZun5BHYf7CAUtQuHL4Cs.png?size=350)
